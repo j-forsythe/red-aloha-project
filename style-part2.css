@@ -1,6 +1,6 @@
 /* http://meyerweb.com/eric/tools/css/reset/
-   v2.0 | 20110126
-   License: none (public domain)
+v2.0 | 20110126
+License: none (public domain)
 */
 
 html, body, div, span, applet, object, iframe,
@@ -49,21 +49,21 @@ table {
 
 /*handy way to scale media 8*/
 img {
-   max-width: 100%; /* adhere to container width */
-   height: auto; /* make sure height scales correctly */
-	 border: 0;
+	max-width: 100%; /* adhere to container width */
+	height: auto; /* make sure height scales correctly */
+	border: 0;
 }
 
 /*font*/
-	/*playfair*/
+/*playfair*/
 
 @font-face {
 	font-family: 'Playfair Display';
 	src:	url(fonts/playfair/playfairdisplay-regular-webfont.eot);
 	src:	url(fonts/playfair/playfairdisplay-regular-webfont.eot) format('embedded-opentype'),
-				url(fonts/playfair/playfairdisplay-regular-webfont.woff) format('woff'),
-				url(fonts/playfair/playfairdisplay-regular-webfont.ttf) format('truetype'),
-				url(fonts/playfair/playfairdisplay-regular-webfont.svg) format('svg');
+	url(fonts/playfair/playfairdisplay-regular-webfont.woff) format('woff'),
+	url(fonts/playfair/playfairdisplay-regular-webfont.ttf) format('truetype'),
+	url(fonts/playfair/playfairdisplay-regular-webfont.svg) format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -72,19 +72,19 @@ img {
 	font-family: 'Playfair Display';
 	src:	url(fonts/playfair/playfairdisplay-bold-webfont.eot);
 	src:	url(fonts/playfair/playfairdisplay-bold-webfont.eot) format('embedded-opentype'),
-				url(fonts/playfair/playfairdisplay-bold-webfont.woff) format('woff'),
-				url(fonts/playfair/playfairdisplay-bold-webfont.ttf) format('truetype'),
-				url(fonts/playfair/playfairdisplay-bold-webfont.svg) format('svg');
+	url(fonts/playfair/playfairdisplay-bold-webfont.woff) format('woff'),
+	url(fonts/playfair/playfairdisplay-bold-webfont.ttf) format('truetype'),
+	url(fonts/playfair/playfairdisplay-bold-webfont.svg) format('svg');
 	font-weight: bold;
-	}
+}
 
 @font-face {
 	font-family: 'Playfair Display';
 	src:	url(fonts/playfair/playfairdisplay-italic-webfont.eot);
 	src:	url(fonts/playfair/playfairdisplay-italic-webfont.eot) format('embedded-opentype'),
-				url(fonts/playfair/playfairdisplay-italic-webfont.woff) format('woff'),
-				url(fonts/playfair/playfairdisplay-italic-webfont.ttf) format('truetype'),
-				url(fonts/playfair/playfairdisplay-italic-webfont.svg) format('svg');
+	url(fonts/playfair/playfairdisplay-italic-webfont.woff) format('woff'),
+	url(fonts/playfair/playfairdisplay-italic-webfont.ttf) format('truetype'),
+	url(fonts/playfair/playfairdisplay-italic-webfont.svg) format('svg');
 	font-style: italic;
 }
 
@@ -92,22 +92,22 @@ img {
 	font-family: 'Playfair Display';
 	src:	url(fonts/playfair/playfairdisplay-bolditalic-webfont.eot);
 	src:	url(fonts/playfair/playfairdisplay-bolditalic-webfont.eot) format('embedded-opentype'),
-				url(fonts/playfair/playfairdisplay-bolditalic-webfont.woff) format('woff'),
-				url(fonts/playfair/playfairdisplay-bolditalic-webfont.ttf) format('truetype'),
-				url(fonts/playfair/playfairdisplay-bolditalic-webfont.svg) format('svg');
+	url(fonts/playfair/playfairdisplay-bolditalic-webfont.woff) format('woff'),
+	url(fonts/playfair/playfairdisplay-bolditalic-webfont.ttf) format('truetype'),
+	url(fonts/playfair/playfairdisplay-bolditalic-webfont.svg) format('svg');
 	font-weight: bold;
 	font-style: italic;
 }
 
-	/*raleway*/
+/*raleway*/
 
 @font-face {
 	font-family: 'Raleway Light';
 	src:	url(fonts/raleway/raleway-light-webfont.eot);
 	src:	url(fonts/raleway/raleway-light-webfont.eot) format('embedded-opentype'),
-				url(fonts/raleway/raleway-light-webfont.woff) format('woff'),
-				url(fonts/raleway/raleway-light-webfont.ttf) format('truetype'),
-				url(fonts/raleway/raleway-light-webfont.svg) format('svg');
+	url(fonts/raleway/raleway-light-webfont.woff) format('woff'),
+	url(fonts/raleway/raleway-light-webfont.ttf) format('truetype'),
+	url(fonts/raleway/raleway-light-webfont.svg) format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -116,9 +116,9 @@ img {
 	font-family: 'Raleway Light';
 	src:	url(fonts/raleway/raleway-medium-webfont.eot);
 	src:	url(fonts/raleway/raleway-medium-webfont.eot) format('embedded-opentype'),
-				url(fonts/raleway/raleway-medium-webfont.woff) format('woff'),
-				url(fonts/raleway/raleway-medium-webfont.ttf) format('truetype'),
-				url(fonts/raleway/raleway-medium-webfont.svg) format('svg');
+	url(fonts/raleway/raleway-medium-webfont.woff) format('woff'),
+	url(fonts/raleway/raleway-medium-webfont.ttf) format('truetype'),
+	url(fonts/raleway/raleway-medium-webfont.svg) format('svg');
 	font-weight: bold;
 }
 
@@ -126,9 +126,9 @@ img {
 	font-family: 'Raleway Light';
 	src:	url(fonts/raleway/raleway-lightitalic-webfont.eot);
 	src:	url(fonts/raleway/raleway-lightitalic-webfont.eot) format('embedded-opentype'),
-				url(fonts/raleway/raleway-lightitalic-webfont.woff) format('woff'),
-				url(fonts/raleway/raleway-lightitalic-webfont.ttf) format('truetype'),
-				url(fonts/raleway/raleway-lightitalic-webfont.svg) format('svg');
+	url(fonts/raleway/raleway-lightitalic-webfont.woff) format('woff'),
+	url(fonts/raleway/raleway-lightitalic-webfont.ttf) format('truetype'),
+	url(fonts/raleway/raleway-lightitalic-webfont.svg) format('svg');
 	font-style: italic;
 }
 
@@ -136,9 +136,9 @@ img {
 	font-family: 'Raleway Light';
 	src:	url(fonts/raleway/raleway-mediumitalic-webfont.eot);
 	src:	url(fonts/raleway/raleway-mediumitalic-webfont.eot) format('embedded-opentype'),
-				url(fonts/raleway/raleway-mediumitalic-webfont.woff) format('woff'),
-				url(fonts/raleway/raleway-mediumitalic-webfont.ttf) format('truetype'),
-				url(fonts/raleway/raleway-mediumitalic-webfont.svg) format('svg');
+	url(fonts/raleway/raleway-mediumitalic-webfont.woff) format('woff'),
+	url(fonts/raleway/raleway-mediumitalic-webfont.ttf) format('truetype'),
+	url(fonts/raleway/raleway-mediumitalic-webfont.svg) format('svg');
 	font-weight: bold;
 	font-style: italic;
 }
@@ -155,7 +155,7 @@ a {
 }
 
 a:hover {
-  color: #b64036;
+	color: #b64036;
 }
 
 body, input {
@@ -198,23 +198,22 @@ section {
 }
 
 ul {
-  list-style: none;
-  padding: 0;
+	list-style: none;
+	padding: 0;
 }
 
 /*layout*/
 
 .container {
-  width: 100%;
+	width: 100%;
 	margin: 0 auto;
 	padding: 0 2%;
 }
 
 .heavy {
-  font-style:normal;
-  font-weight: bold;
+	font-style:normal;
+	font-weight: bold;
 }
-
 
 /*header*/
 
@@ -229,31 +228,54 @@ header {
 .site-header {
 	padding-bottom: 0.5rem;
 	padding-top: 1rem;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
 	display: flex;
-	flex-flow: wrap;
-	justify-content: space-between;
+	-webkit-flex-flow: wrap;
+	    -ms-flex-flow: wrap;
+	        flex-flow: wrap;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
 	border-bottom: 1px solid #d7d7d7;
 }
 
 .logo {
-	align-self: flex-start;
-	flex: 0 1 50%;
+	-webkit-align-self: flex-start;
+	    -ms-flex-item-align: start;
+	        align-self: flex-start;
+	-webkit-box-flex: 0;
+	-webkit-flex: 0 1 50%;
+	    -ms-flex: 0 1 50%;
+	        flex: 0 1 50%;
 	max-width: 8.6rem; /* scale the logo */
 	margin-right: 1.5rem;
 }
 
 .cart {
-	align-self: flex-end;
+	-webkit-align-self: flex-end;
+	    -ms-flex-item-align: end;
+	        align-self: flex-end;
 	margin-left: 1.5rem;
 	max-width: 3.6rem;
 	cursor: pointer;
-	flex: 0 1 50%;
+	-webkit-box-flex: 0;
+	-webkit-flex: 0 1 50%;
+	    -ms-flex: 0 1 50%;
+	        flex: 0 1 50%;
 	text-align: right;
 }
 
 .main-navigation {
-	align-self: center;
-	flex: 1 0 auto;
+	-webkit-align-self: center;
+	    -ms-flex-item-align: center;
+	        align-self: center;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1 0;
+	    -ms-flex: 1 0;
+	        flex: 1 0;
 }
 
 .main-navigation ul {
@@ -273,40 +295,52 @@ header {
 	text-decoration: none;
 }
 
-
 /*banner*/
 
 .banner {
-  height: 400px;
-  background:
-		linear-gradient( to bottom, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.25) 100% ),
-    url('images/banner-girl.png') no-repeat center 60px,
-    url('images/flower-bkgd.jpg') repeat-x center top;
-  background-size: cover, 150px 369px, cover;
+	height: 400px;
+	background:
+	-webkit-linear-gradient( top, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.25) 100% ),
+	url('images/banner-girl.png') no-repeat center 60px,
+	url('images/flower-bkgd.jpg') repeat-x center top;
+	background:
+	linear-gradient( to bottom, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.25) 100% ),
+	url('images/banner-girl.png') no-repeat center 60px,
+	url('images/flower-bkgd.jpg') repeat-x center top;
+	background-size: cover, 150px 369px, cover;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
 	display: flex;
-	justify-content: center;
-	align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
 	margin-top: 5rem;
-  }
+}
 
 .banner-text {
-  color: #FFFFFF;
-  text-align: center;
+	color: #FFFFFF;
+	text-align: center;
 	width: 80%;
 	line-height: 1;
 	text-shadow: 2px 2px 4px rgba(100, 100, 100, 0.8);
 }
 
 .collection {
-  text-transform: uppercase;
+	text-transform: uppercase;
 	font-size: 1.25rem;
 	margin-bottom: 1.5rem;
 	font-weight: bold;
-  }
+}
 
 .season {
-  font-family: 'Playfair Display', serif;
-  font-size: 2.5rem;
+	font-family: 'Playfair Display', serif;
+	font-size: 2.5rem;
 	font-weight: normal;
 	text-transform: none;
 }
@@ -328,12 +362,20 @@ header {
 }
 
 .categories {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
 	display: flex;
-	flex-flow: wrap;
+	-webkit-flex-flow: wrap;
+	    -ms-flex-flow: wrap;
+	        flex-flow: wrap;
 }
 
 .long-shop {
-	flex: 2 0 100%;
+	-webkit-box-flex: 2;
+	-webkit-flex: 2 0 100%;
+	    -ms-flex: 2 0 100%;
+	        flex: 2 0 100%;
 	max-width: 100%;
 }
 
@@ -347,17 +389,28 @@ header {
 	content: "";
 }
 
-
 .square-shop {
-	flex: 1 0 50%;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1 0 50%;
+	    -ms-flex: 1 0 50%;
+	        flex: 1 0 50%;
 	max-width: 50%;
 }
 
 .long-shop,
 .square-shop {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
 	display: flex;
-	justify-content: center;
-	align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
 	border: 4px solid #FFFFFF;
 }
 
@@ -379,6 +432,8 @@ header {
 }
 
 .mens {
+	background: -webkit-linear-gradient( top, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.25) 100% ),
+	url('images/mens-category.jpg');
 	background: linear-gradient( to bottom, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.25) 100% ),
 	url('images/mens-category.jpg');
 	background-size: cover;
@@ -386,6 +441,8 @@ header {
 }
 
 .trends {
+	background: -webkit-linear-gradient( top, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.25) 100% ),
+	url('images/trends-category.jpg');
 	background: linear-gradient( to bottom, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.25) 100% ),
 	url('images/trends-category.jpg');
 	background-size: cover;
@@ -393,6 +450,8 @@ header {
 }
 
 .glasses {
+	background: -webkit-linear-gradient( top, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.25) 100% ),
+	url('images/glasses-category.jpg');
 	background: linear-gradient( to bottom, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.25) 100% ),
 	url('images/glasses-category.jpg');
 	background-size: cover;
@@ -400,6 +459,8 @@ header {
 }
 
 .sale {
+	background: -webkit-linear-gradient( top, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.25) 100% ),
+	url('images/sale-category.jpg');
 	background: linear-gradient( to bottom, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.25) 100% ),
 	url('images/sale-category.jpg');
 	background-size: cover;
@@ -407,6 +468,8 @@ header {
 }
 
 .bags {
+	background: -webkit-linear-gradient( top, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.25) 100% ),
+	url('images/bags-category.jpg');
 	background: linear-gradient( to bottom, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.25) 100% ),
 	url('images/bags-category.jpg');
 	background-size: cover;
@@ -414,6 +477,8 @@ header {
 }
 
 .womens {
+	background: -webkit-linear-gradient( top, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.25) 100% ),
+	url('images/womens-category.jpg');
 	background: linear-gradient( to bottom, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.25) 100% ),
 	url('images/womens-category.jpg');
 	background-size: cover;
@@ -432,7 +497,7 @@ header {
 }
 
 .product-list {
-  margin-bottom: 3rem;
+	margin-bottom: 3rem;
 	text-align: center;
 	padding:0 2rem;
 }
@@ -456,14 +521,14 @@ header {
 	font-weight: bold;
 }
 
-
-
 /*newsletter*/
 
 .newsletter {
-  background: linear-gradient( to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.15) 100% ),
-		url('images/wave-bkgd.jpg') no-repeat center bottom;
-  margin-bottom: 8px;
+	background: -webkit-linear-gradient( top, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.15) 100% ),
+	url('images/wave-bkgd.jpg') no-repeat center bottom;
+	background: linear-gradient( to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.15) 100% ),
+	url('images/wave-bkgd.jpg') no-repeat center bottom;
+	margin-bottom: 8px;
 	color: #FFFFFF;
 }
 
@@ -492,19 +557,18 @@ input[type="email"] {
 	width: 100%;
 	padding: .5rem 1.75rem;
 	padding-right: 150px;
-	}
-
-input[type ="submit"] {
-		background-color: #e2574c;
-		color: #FFFFFF;
-		cursor: pointer;
-		font-weight: bold;
-		position: absolute;
-		padding: .25rem 1.5rem;
-		right: .25rem;
-		top: .25rem;
 }
 
+input[type ="submit"] {
+	background-color: #e2574c;
+	color: #FFFFFF;
+	cursor: pointer;
+	font-weight: bold;
+	position: absolute;
+	padding: .25rem 1.5rem;
+	right: .25rem;
+	top: .25rem;
+}
 
 input[type ="email"],
 input[type ="submit"] {
@@ -513,13 +577,12 @@ input[type ="submit"] {
 	line-height: 2;
 }
 
-
 /*footer*/
 
 .site-footer {
 	background-color: #242424;
-  color: #FFFFFF;
-  padding: 4rem 0;
+	color: #FFFFFF;
+	padding: 4rem 0;
 	text-align: center;
 	font-family: 'Playfair Display', serif;
 }
@@ -565,11 +628,6 @@ input[type ="submit"] {
 	display: inline-block;
 }
 
-.fa-google-plus {
-	width: 25px;
-	height: auto;
-}
-
 @media only screen and (min-width: 600px) {
 
 	html {
@@ -579,24 +637,41 @@ input[type ="submit"] {
 	/*header*/
 
 	.site-header {
-		flex-wrap: nowrap;
+		-webkit-flex-wrap: nowrap;
+		    -ms-flex-wrap: nowrap;
+		        flex-wrap: nowrap;
 		padding-bottom: 0.5rem;
 	}
 
 	.logo {
-		order: 1;
-		flex-basis: 20%;
+		-webkit-box-ordinal-group: 2;
+		-webkit-order: 1;
+		    -ms-flex-order: 1;
+		        order: 1;
+		-webkit-flex-basis: 20%;
+		    -ms-flex-preferred-size: 20%;
+		        flex-basis: 20%;
 		margin: 0;
 	}
 
 	.cart {
-		order: 3;
-		flex-basis: 20%;
+		-webkit-box-ordinal-group: 4;
+		-webkit-order: 3;
+		    -ms-flex-order: 3;
+		        order: 3;
+		-webkit-flex-basis: 20%;
+		    -ms-flex-preferred-size: 20%;
+		        flex-basis: 20%;
 	}
 
 	.main-navigation {
-		order: 2;
-		flex-basis: 60%;
+		-webkit-box-ordinal-group: 3;
+		-webkit-order: 2;
+		    -ms-flex-order: 2;
+		        order: 2;
+		-webkit-flex-basis: 60%;
+		    -ms-flex-preferred-size: 60%;
+		        flex-basis: 60%;
 	}
 
 	.main-navigation ul {
@@ -611,24 +686,28 @@ input[type ="submit"] {
 
 	/*banner*/
 
-		.season {
-			font-size: 3rem;
-		}
+	.season {
+		font-size: 3rem;
+	}
 
 	/*about*/
 
-		.about-text {
-			max-width: 720px;
-		}
+	.about-text {
+		max-width: 720px;
+	}
 
-		/*products*/
+	/*products*/
 
 	.long-shop {
-		flex-basis: 50%;
+		-webkit-flex-basis: 50%;
+		    -ms-flex-preferred-size: 50%;
+		        flex-basis: 50%;
 	}
 
 	.square-shop {
-		flex-basis: 25%;
+		-webkit-flex-basis: 25%;
+		    -ms-flex-preferred-size: 25%;
+		        flex-basis: 25%;
 	}
 
 	.category-name {
@@ -651,56 +730,60 @@ input[type ="submit"] {
 		border-width: 4px 0 4px 4px;
 	}
 
-		/*featured*/
+	/*featured*/
 
-		.featured-products li {
-			width: 50vw !important;
-		}
+	.featured-products li {
+		width: 50vw !important;
+	}
 
+	/*newsletter*/
 
-		/*newsletter*/
+	.newsletter-text {
+		width: 720px;
+	}
 
-		.newsletter-text {
-			width: 720px;
-		}
-
-		.sign-up {
-				position: relative;
-				width: 67%;
-		}
+	.sign-up {
+		position: relative;
+		width: 67%;
+	}
 
 	/*footer*/
 
 	.site-footer {
 		text-align: left;
-		}
+	}
 
-		.footer {
-				display: flex;
-				justify-content: space-between;
-				margin:0 2rem;
-			}
+	.footer {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-pack: justify;
+		-webkit-justify-content: space-between;
+		    -ms-flex-pack: justify;
+		        justify-content: space-between;
+		margin:0 2rem;
+	}
 
-		.social {
-			margin-top: 0;
-			padding-right: 2rem;
-		}
+	.social {
+		margin-top: 0;
+		padding-right: 2rem;
+	}
 
-		.social-network {
-			display: inline;
-			font-family: 'Raleway Light', sans-serif;
-		}
+	.social-network {
+		display: inline;
+		font-family: 'Raleway Light', sans-serif;
+	}
 
-		.social li {
-			display: block;
-		}
+	.social li {
+		display: block;
+	}
 
 }
 
 @media only screen and (min-width: 1240px) {
 
-
-/*header*/
+	/*header*/
 
 	.main-navigation li {
 		margin: 1rem;
@@ -711,17 +794,17 @@ input[type ="submit"] {
 		max-width: 1240px;
 	}
 
-/*banner*/
-		.banner {
-	  height: 550px;
-	  background-size: cover, 250px 615px, contain;
-	  }
+	/*banner*/
+	.banner {
+		height: 550px;
+		background-size: cover, 250px 615px, contain;
+	}
 
 	.season {
 		font-size: 4rem;
 	}
 
-/*about*/
+	/*about*/
 
 	.about-text {
 		width: 720px;
@@ -733,18 +816,16 @@ input[type ="submit"] {
 		font-size: 2.5rem;
 	}
 
-
 	/*featured*/
 
 	.featured-products li {
 		width: 25vw !important;
 	}
 
+	/*footer*/
 
-		/*footer*/
-
-		.social {
-			padding-right: 4rem;
-		}
+	.social {
+		padding-right: 4rem;
+	}
 
 }
